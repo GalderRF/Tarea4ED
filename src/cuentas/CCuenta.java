@@ -1,5 +1,8 @@
 package cuentas;
-
+/**
+ * Creamos la documentacion de JavaDoc para la clase CCuenta.
+ * @author GalderDAM
+ */
 public class CCuenta {
 
     /**
